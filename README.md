@@ -10,9 +10,9 @@
 ```bash
 git clone https://github.com/jmai321/449-cloud-service-management.git
 cd <repo-folder>
-python3 -m venv venv (macOS/Linux)
-source venv/bin/activate 
-venv\Scripts\activate (Windows)
+python3 -m venv venv
+source venv/bin/activate # macOS/Linux
+venv\Scripts\activate # Windows
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
