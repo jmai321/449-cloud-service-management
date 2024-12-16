@@ -4,7 +4,7 @@
 * Daniel Currey
 
 ## Video
-* Insert link later
+* [Video](https://youtube.com/watch?v=Jnk5Ag0uqig)
 
 ## Installation & Setup
 ```bash
